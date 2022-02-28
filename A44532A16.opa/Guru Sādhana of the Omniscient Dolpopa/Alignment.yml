@@ -1,0 +1,19 @@
+segment_sources:
+  PDEE2BEE2:
+    type: origin_type
+    relation: translation
+    language: en
+  P534C7555:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  bc5ab70127fd4903be77f621d1f218c9:
+    PDEE2BEE2: 4ee33a2b3a954852ac0f51d7bd9b9f62
+    P534C7555: c0887f07c5ab4404a8c3616b57c9d58f
+  6585bfab5393468cb160326ddac92d57:
+    PDEE2BEE2: 91cc47c3780c4819b6ab8091293c2a24
+    P534C7555: 09cf200a38c14781b7ca1f7bfa3c1f84
+  6055354ac4da48f4b1de508818e5d44a:
+    PDEE2BEE2: 7402c9d485754b11bc01a14fc6ddc480
+    P534C7555: ffae56e17ce7457ba6e37cbbd660d732
